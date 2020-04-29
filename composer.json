@@ -1,13 +1,13 @@
 {
-  "name": "/home/cwoodruf/public_html/328X2/pets4",
+  "name": "/home/cwoodruf/public_html/328/pets4",
   "authors": [
     {
       "name": "Collin Woodruff",
       "email": "Cwoodruff@mail.greenriver.edu"
     },
     {
-      "name":"",
-      "email":""
+      "name":"Chunhai Yang",
+      "email":"cyang21@mail.greenriver.edu"
     }
   ],
   "require": {
