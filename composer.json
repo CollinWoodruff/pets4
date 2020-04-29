@@ -1,0 +1,16 @@
+{
+  "name": "/home/cwoodruf/public_html/328X2/pets4",
+  "authors": [
+    {
+      "name": "Collin Woodruff",
+      "email": "Cwoodruff@mail.greenriver.edu"
+    },
+    {
+      "name":"",
+      "email":""
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
